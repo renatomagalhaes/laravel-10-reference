@@ -14,7 +14,7 @@ Bem-vindo ao guia de referência do Laravel 10! Este repositório serve como uma
 8. [Autenticação](./authentication/authentication.md)
 9. [Requisições](./requests/requests.md)
 10. [Armazenamento](./storage/storage.md)
-11. [Emails](./mail/mail.md)
+11. [Emails](./emails/emails.md)
 12. [Filas](./queues/queues.md)
 13. [Eventos](./events/events.md)
 14. [Cache](./cache/cache.md)
