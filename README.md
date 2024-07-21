@@ -1,6 +1,6 @@
 # Laravel 10 Reference (Guide)
 
-Bem-vindo ao guia de referência do Laravel 10! Este repositório serve como uma fonte abrangente para desenvolvedores PHP que buscam exemplos práticos, tutoriais detalhados e boas práticas usando a versão mais recente do Laravel. Nosso objetivo é fornecer uma referência rápida e organizada para facilitar o desenvolvimento com Laravel 10.
+Bem-vindo ao meu guia de referência do Laravel 10! Este repositório serve como uma fonte abrangente para desenvolvedores PHP que buscam exemplos práticos, tutoriais detalhados e boas práticas usando a versão mais recente do Laravel. Nosso objetivo é fornecer uma referência rápida e organizada para facilitar o desenvolvimento com Laravel 10.
 
 ## Índice
 
@@ -38,4 +38,14 @@ Bem-vindo ao guia de referência do Laravel 10! Este repositório serve como uma
 
 O Laravel 10 traz uma série de novos recursos e melhorias projetadas para tornar o desenvolvimento mais rápido e agradável. Este guia cobre tudo o que você precisa saber, desde os fundamentos até as técnicas avançadas, garantindo que você possa aproveitar ao máximo o que o Laravel 10 tem a oferecer. Mergulhe e comece a construir aplicações incríveis com o Laravel 10!
 
-[@renatomagalhaes](https://github.com/renatomagalhaes)
+[Documentação Oficial do Laravel](https://laravel.com/docs/10.x)
+
+-+-+-+-+-+
+
+**Aviso Legal:** Este guia de referência do Laravel 10 é fornecido "no estado em que se encontra", sem garantias de qualquer tipo, expressas ou implícitas. O uso deste guia é de inteira responsabilidade do visitante. O autor não se responsabiliza por quaisquer danos ou perdas decorrentes do uso deste guia.
+
+**Licença:** Este guia de referência do Laravel 10 é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+
+**Contato:** Se você tiver alguma dúvida, sugestão ou problema relacionado a este guia, sinta-se à vontade para entrar em contato comigo através do meu perfil do GitHub [@renatomagalhaes](https://github.com/renatomagalhaes).
+
+-+-+-+-+-+
