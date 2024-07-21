@@ -1,4 +1,4 @@
-# Laravel 10 Reference (Guide)
+# Laravel 10 Reference (Guide RM)
 
 Bem-vindo ao meu guia de referência do Laravel 10! Este repositório serve como uma fonte abrangente para desenvolvedores PHP que buscam exemplos práticos, tutoriais detalhados e boas práticas usando a versão mais recente do Laravel. Nosso objetivo é fornecer uma referência rápida e organizada para facilitar o desenvolvimento com Laravel 10.
 
