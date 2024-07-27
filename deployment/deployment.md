@@ -2,6 +2,29 @@
 
 Nesta seção, abordamos várias estratégias e práticas recomendadas para realizar o deploy de uma aplicação Laravel de forma eficiente, segura e sem downtime. Abaixo está um resumo dos tópicos abordados.
 
+## Índice
+
+1. [Deploy em Ambiente de Teste](./deployment-test-environment.md)
+2. [Deploy em Ambiente de Produção](./deployment-production-environment.md)
+3. [Rollback em Produção](./deployment-rollback.md)
+4. [Deploy Contínuo](./deployment-continuous-deployment.md)
+5. [Deploy com Docker](./deployment-docker.md)
+6. [Deploy com Kubernetes](./deployment-kubernetes.md)
+7. [Deploy com Terraform](./deployment-terraform.md)
+8. [Deploy com Ansible](./deployment-ansible.md)
+9. [Deploy com Laravel Envoyer](./deployment-laravel-envoyer.md)
+10. [Deploy com Laravel Forge](./deployment-laravel-forge.md)
+11. [Automação de Deploy](./deployment-automation.md)
+12. [Multi-tenant Deploy](./deployment-multi-tenant.md)
+13. [Deploy Zero-Downtime](./deployment-zero-downtime.md)
+14. [Otimização de Performance Pós-Deploy](./deployment-performance-optimization.md)
+15. [Gestão de Configurações](./deployment-configuration-management.md)
+16. [Backup e Recuperação](./deployment-backup-recovery.md)
+17. [Segurança no Deploy](./deployment-security.md)
+18. [Monitoramento Pós-Deploy](./deployment-monitoring.md)
+19. [Melhores Práticas de Deploy](./deployment-practices.md)
+20. [Deploy em Cloud](./deployment-cloud.md)
+
 ## 1. Deploy em Ambiente de Teste
 
 ### Configuração do Ambiente de Teste
@@ -76,19 +99,85 @@ Nesta seção, abordamos várias estratégias e práticas recomendadas para real
 - Monitoramento contínuo.
 - Uso de blue-green deploy e canary deploy.
 
-## Práticas Recomendadas
+## 5. Deploy com Docker
 
-### Documentação
+- Configuração e uso de Docker para deploy de aplicações Laravel.
+- Criação de imagens Docker e configuração de Docker Compose.
 
-- Documentação do pipeline de CI/CD e processos de deploy.
+## 6. Deploy com Kubernetes
 
-### Treinamento
+- Uso de Kubernetes para orquestração de contêineres.
+- Configuração de clusters e deploy com Helm Charts.
 
-- Treinamento da equipe para seguir as melhores práticas de CI/CD e deploy contínuo.
+## 7. Deploy com Terraform
 
-### Segurança
+- Utilização de Terraform para infraestrutura como código.
+- Definição e provisionamento de infraestrutura na nuvem.
 
-- Gestão de credenciais com ferramentas como AWS Secrets Manager e HashiCorp Vault.
+## 8. Deploy com Ansible
+
+- Uso de Ansible para automação de configuração e deploy.
+- Criação de playbooks e automação de tarefas comuns.
+
+## 9. Deploy com Laravel Envoyer
+
+- Uso de Laravel Envoyer para deploy zero-downtime.
+- Configuração e gerenciamento de deploys atômicos.
+
+## 10. Deploy com Laravel Forge
+
+- Configuração de servidores e deploy automatizado com Laravel Forge.
+- Gestão de infraestrutura e deploy contínuo.
+
+## 11. Automação de Deploy
+
+- Automação do processo de deploy para garantir consistência e eficiência.
+- Uso de scripts e ferramentas para automação.
+
+## 12. Multi-tenant Deploy
+
+- Estratégias e práticas para deploy de aplicações multi-tenant.
+- Configuração e gestão de ambientes multi-tenant.
+
+## 13. Deploy Zero-Downtime
+
+- Técnicas para deploy sem downtime.
+- Uso de deploy atômico, blue-green deploy e canary deploy.
+
+## 14. Otimização de Performance Pós-Deploy
+
+- Técnicas de otimização de performance após o deploy.
+- Cacheamento, uso de CDNs e otimização de banco de dados.
+
+## 15. Gestão de Configurações
+
+- Gestão de configurações com variáveis de ambiente e secret managers.
+- Automação e monitoramento de configurações.
+
+## 16. Backup e Recuperação
+
+- Configuração de backups regulares e planos de recuperação.
+- Automação de backups e restauração de dados.
+
+## 17. Segurança no Deploy
+
+- Práticas de segurança para proteger a aplicação e dados durante o deploy.
+- Uso de SSL/TLS, firewalls e gestão de credenciais.
+
+## 18. Monitoramento Pós-Deploy
+
+- Ferramentas e técnicas para monitorar a aplicação após o deploy.
+- Configuração de alertas e monitoramento contínuo.
+
+## 19. Melhores Práticas de Deploy
+
+- Práticas recomendadas para garantir um deploy eficiente e seguro.
+- Documentação, treinamento e automação.
+
+## 20. Deploy em Cloud
+
+- Estratégias de deploy em ambientes de cloud (AWS, GCP, Azure).
+- Uso de ferramentas específicas de cloud para deploy e gestão de infraestrutura.
 
 ## Conclusão
 
